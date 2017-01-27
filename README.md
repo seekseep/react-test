@@ -3,7 +3,7 @@ react test (http://postd.cc/getting-started-with-tdd-in-react/)
 
 ## setup
 ```bash
-npm install
+$ npm install
 ```
 
 ## run
